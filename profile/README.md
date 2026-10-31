@@ -6,7 +6,7 @@ Here you'll find custom penetration testing helper scripts, Active Directory enu
 
 ### 🌐 Links & Resources
 - **Research & Notes:** [bobsec.io](https://bobsec.io)
-- **YouTube:** [Bob Security](https://youtube.com/@bobsecurity)
+- **YouTube:** [Bob Security](https://youtube.com/@bobsec-io)
 - **Contact:** `contact@bobsec.io`
 
 ### 🛡️ Core Focus Areas
